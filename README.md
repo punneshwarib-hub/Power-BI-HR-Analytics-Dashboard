@@ -3,8 +3,7 @@
 ## Project Overview
 This repository showcases a **professional HR Analytics Dashboard** built using **Microsoft Power BI**. The project focuses on analyzing employee attrition, workforce demographics, job satisfaction, and key HR metrics to help organizations make informed, data-driven HR decisions.
 ## Outcome 
-
-
+https://github.com/punneshwarib-hub/Power-BI-HR-Analytics-Dashboard/blob/main/HR%20POWERBI%20DASHBOARD.png
 ## Key KPIs
 - **Total Employees:** 1470  
 - **Active Employees:** 1233  
